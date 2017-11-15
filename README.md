@@ -13,6 +13,7 @@ Alexis Wood
 In this assignment I used jQuery in order to modify an existing recipe application. 
 
 ### View Project Online:
+ https://aaw14.github.io/wood_lesson7_jquery/
 
 
 ### Lessons Learned in the Assignment:
