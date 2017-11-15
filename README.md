@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 15, 2017
 
 ### Student Name:  
-(First and Last Name)
+Alexis Wood 
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment I used jQuery in order to modify an existing recipe application. 
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how JQuery can be included in js files
+2. I learned different ways to make an applicaiton more responsive
+3. I learned ways to practice clean coding 
 
